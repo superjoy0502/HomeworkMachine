@@ -14,13 +14,13 @@ Not yet released.
 ## :oncoming_automobile: Roadmap
 
 ### Image
-- [ ] Get a scan result image - Java (GUI)
-- [ ] Load the image
-- [ ] Hand over the image to Python
+- [x] Get a scan result PDF - Java (GUI)
+- [ ] Load the PDF
+- [ ] Hand over the PDF to Python
 
 ### Analysing
-- [ ] Find texts in the image - Python (pytesseract)
-- [ ] Divide questions
+- [ ] Find texts in the PDF - Python
+- [ ] Seperate questions
 - [ ] Search up questions in google
 - [ ] Return results to Java
 

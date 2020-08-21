@@ -21,7 +21,7 @@ Not yet released.
 ### Analysing
 - [ ] Find texts in the PDF - Python
 - [ ] Seperate questions
-- [ ] Search up questions in google
+- [ ] Search up questions in google (Machine Learning to identify the correct answer)
 - [ ] Return results to Java
 
 ### Output

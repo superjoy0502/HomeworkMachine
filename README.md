@@ -15,7 +15,7 @@ Not yet released.
 
 ### Image
 - [x] Get a scan result PDF - Java (GUI)
-- [ ] Load the PDF
+- [x] Load the PDF
 - [ ] Hand over the PDF to Python
 
 ### Analysing
@@ -35,4 +35,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## :bookmark_tabs: License
-[GPLv3](https://github.com/superjoy0502/HomeworkMachine/blob/master/LICENSE)
+[AGPL-3.0](https://github.com/superjoy0502/HomeworkMachine/blob/master/LICENSE)
